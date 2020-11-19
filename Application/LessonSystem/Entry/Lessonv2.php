@@ -11,4 +11,8 @@ $se = new Seminar(4, new TimedCostStrategy());
 
 echo $lecture->cost()."\n";
 
-echo $se->cost();
+echo $se->cost()."\n";
+
+$r = new \Application\LessonSystem\Core\v2\RegisterMgr\RegisterMgr();
+
+$r->register($lecture);
