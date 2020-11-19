@@ -8,7 +8,8 @@
     ],
     "autoload": {
       "psr-4": {
-        "Application\\": "Application"
+        "Application\\": "Application",
+        "LessonSystem\\": "LessonSystem"
       }
     }
 }

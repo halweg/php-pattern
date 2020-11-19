@@ -1,5 +1,5 @@
 <?php
-namespace Application\LessonSystem\Core\v1;
+namespace LessonSystem\Core\v1;
 
 class TerryMaoLesson extends Lesson {
     

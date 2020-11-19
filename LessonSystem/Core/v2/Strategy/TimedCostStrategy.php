@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Application\LessonSystem\Core\v2\Strategy;
+namespace LessonSystem\Core\v2\Strategy;
 
 
-use Application\LessonSystem\Core\v2\Lesson\Lesson;
+use LessonSystem\Core\v2\Lesson\Lesson;
 
 class TimedCostStrategy extends CostStrategy
 {

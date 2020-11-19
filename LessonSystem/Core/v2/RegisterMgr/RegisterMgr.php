@@ -1,10 +1,10 @@
 <?php
 
-namespace Application\LessonSystem\Core\v2\RegisterMgr;
+namespace LessonSystem\Core\v2\RegisterMgr;
 
 
-use Application\LessonSystem\Core\v2\Lesson\Lesson;
-use Application\LessonSystem\Core\v2\Notify\Notifier;
+use LessonSystem\Core\v2\Lesson\Lesson;
+use LessonSystem\Core\v2\Notify\Notifier;
 
 class RegisterMgr
 {

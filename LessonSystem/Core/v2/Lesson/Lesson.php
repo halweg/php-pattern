@@ -1,7 +1,7 @@
 <?php
-namespace Application\LessonSystem\Core\v2\Lesson;
+namespace LessonSystem\Core\v2\Lesson;
 
-use Application\LessonSystem\Core\v2\Strategy\CostStrategy;
+use LessonSystem\Core\v2\Strategy\CostStrategy;
 
 abstract class Lesson
 {

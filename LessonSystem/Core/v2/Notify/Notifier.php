@@ -1,5 +1,5 @@
 <?php
-namespace Application\LessonSystem\Core\v2\Notify;
+namespace LessonSystem\Core\v2\Notify;
 
 
 abstract class Notifier

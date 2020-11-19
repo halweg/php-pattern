@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Application\LessonSystem\Core\v2\Notify;
+namespace LessonSystem\Core\v2\Notify;
 
 
 class MailNotifier extends Notifier
