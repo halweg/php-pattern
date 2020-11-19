@@ -1,0 +1,14 @@
+{
+    "name": "haowei/php-pattern",
+    "authors": [
+        {
+            "name": "halweg",
+            "email": "8688534haowei@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Application\\": "Application"
+      }
+    }
+}
