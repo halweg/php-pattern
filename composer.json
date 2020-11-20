@@ -9,7 +9,8 @@
     "autoload": {
       "psr-4": {
         "Application\\": "Application",
-        "LessonSystem\\": "LessonSystem"
+        "LessonSystem\\": "LessonSystem",
+        "Builder\\": "Builder"
       }
     }
 }
