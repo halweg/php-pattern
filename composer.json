@@ -10,7 +10,8 @@
       "psr-4": {
         "Application\\": "Application",
         "LessonSystem\\": "LessonSystem",
-        "Builder\\": "Builder"
+        "Builder\\": "Builder",
+        "PersonnelMgr\\": "PersonnelMgr"
       }
     }
 }
