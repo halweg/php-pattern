@@ -11,7 +11,8 @@
         "Application\\": "Application",
         "LessonSystem\\": "LessonSystem",
         "Builder\\": "Builder",
-        "PersonnelMgr\\": "PersonnelMgr"
+        "PersonnelMgr\\": "PersonnelMgr",
+        "Civilization\\": "Civilization"
       }
     }
 }
