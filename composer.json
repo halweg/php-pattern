@@ -12,7 +12,8 @@
         "LessonSystem\\": "LessonSystem",
         "Builder\\": "Builder",
         "PersonnelMgr\\": "PersonnelMgr",
-        "Civilization\\": "Civilization"
+        "Civilization\\": "Civilization",
+        "Facade\\": "Facade"
       }
     }
 }
