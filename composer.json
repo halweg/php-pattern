@@ -13,7 +13,8 @@
         "Builder\\": "Builder",
         "PersonnelMgr\\": "PersonnelMgr",
         "Civilization\\": "Civilization",
-        "Facade\\": "Facade"
+        "Facade\\": "Facade",
+        "Observer\\": "Observer"
       }
     }
 }
